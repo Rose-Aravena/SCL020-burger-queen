@@ -1,5 +1,8 @@
 # Burger Queen
 
+## DESCRIPCION
+Proyecto para restaurant de comida, en el se aborda la problematica de mantener una comunicacion fluida entre la cocina y los meser@s que atienden, con esto se busca que los usarios (meser@s y cocina) puedan ver en tiempo real el estado de los pedidos para que la entrega de los pedidos sea mas rapida y ordenada. El mesero tomara el pedido por medio de una tablet, el pedido sera enviado a la cocina, ahi podran visualizar el detalle del pedido y actualizar su estado de preparacion, el mesero podra ver esa actualizacion y saber cuando esta listo para servir el pedido. 
+
 ## DIAGRAMA DE FLUJO
 <img src = "IMGS/DIAGRAMA DE FLUJO.png">
 
